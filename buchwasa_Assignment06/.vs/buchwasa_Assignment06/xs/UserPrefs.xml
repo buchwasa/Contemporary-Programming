@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D5A581EA-8ECA-49E2-98C6-46317E55F8ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.buchwasa__Assignment06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="buchwasa_Assignment06/Program.cs">
+    <Files>
+      <File FileName="buchwasa_Assignment06/Fish.cs" Line="3" Column="1" />
+      <File FileName="buchwasa_Assignment06/Net.cs" Line="1" Column="1" />
+      <File FileName="buchwasa_Assignment06/Program.cs" Line="20" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="buchwasa_Assignment06" expanded="True">
+            <Node name="buchwasa_Assignment06" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

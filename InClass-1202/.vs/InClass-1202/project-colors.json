@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3b1581d-eec7-41e7-8e44-6be93d2e33c2": {
+      "ProjectGuid": "e3b1581d-eec7-41e7-8e44-6be93d2e33c2",
+      "DisplayName": "InClass-1202",
+      "ColorIndex": 0
+    },
+    "ab797bba-d53f-4c4f-b590-c7e0e1b1297e": {
+      "ProjectGuid": "ab797bba-d53f-4c4f-b590-c7e0e1b1297e",
+      "DisplayName": "TreeViewUtils",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

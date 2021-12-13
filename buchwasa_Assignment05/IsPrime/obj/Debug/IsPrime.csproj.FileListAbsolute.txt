@@ -1,0 +1,6 @@
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\bin\Debug\IsPrime.dll
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\obj\Debug\IsPrime.dll
+C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\buchwasa_Assignment05\IsPrime\obj\Debug\IsPrime.pdb

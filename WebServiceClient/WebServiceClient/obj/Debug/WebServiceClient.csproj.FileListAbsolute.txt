@@ -1,0 +1,8 @@
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.AssemblyReference.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.pdb

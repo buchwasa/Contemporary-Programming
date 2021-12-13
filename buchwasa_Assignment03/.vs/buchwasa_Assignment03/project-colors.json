@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9b2ab59-a62e-4068-9a72-5fb14e57d3a9": {
+      "ProjectGuid": "c9b2ab59-a62e-4068-9a72-5fb14e57d3a9",
+      "DisplayName": "buchwasa_Assignment03",
+      "ColorIndex": 0
+    },
+    "eec0fedf-f8ef-4fe6-ac2d-7c40ab8ecc4b": {
+      "ProjectGuid": "eec0fedf-f8ef-4fe6-ac2d-7c40ab8ecc4b",
+      "DisplayName": "PrimeNumberChecker",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

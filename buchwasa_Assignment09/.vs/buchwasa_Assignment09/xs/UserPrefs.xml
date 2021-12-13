@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{23645BF3-F045-44FD-9C74-EB23BB7258CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="buchwasa_Assignment09/Bike.cs">
+    <Files>
+      <File FileName="buchwasa_Assignment09/Program.cs" Line="44" Column="1" />
+      <File FileName="buchwasa_Assignment09/Bike.cs" Line="13" Column="18" />
+      <File FileName="buchwasa_Assignment09/Foldable.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="buchwasa_Assignment09" expanded="True">
+            <Node name="buchwasa_Assignment09" expanded="True">
+              <Node name="Bike.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.buchwasa__Assignment09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

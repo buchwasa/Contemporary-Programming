@@ -1,0 +1,4 @@
+/home/drew/OneDrive/Documents/Contemporary Programming/buchwasa_Assignment07/buchwasa_Assignment07/bin/Release/buchwasa_Assignment07.exe
+/home/drew/OneDrive/Documents/Contemporary Programming/buchwasa_Assignment07/buchwasa_Assignment07/obj/x86/Release/buchwasa_Assignment07.csproj.CoreCompileInputs.cache
+/home/drew/OneDrive/Documents/Contemporary Programming/buchwasa_Assignment07/buchwasa_Assignment07/obj/x86/Release/buchwasa_Assignment07.exe
+/home/drew/OneDrive/Documents/Contemporary Programming/buchwasa_Assignment07/buchwasa_Assignment07/obj/x86/Release/buchwasa_Assignment07.csprojAssemblyReference.cache

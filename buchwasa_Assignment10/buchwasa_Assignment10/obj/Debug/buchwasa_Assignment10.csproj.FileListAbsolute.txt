@@ -1,0 +1,11 @@
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/buchwasa_Assignment10.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/buchwasa_Assignment10.pdb
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/Algorithm.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/nunit.framework.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/Algorithm.pdb
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/bin/Debug/nunit.framework.xml
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/obj/Debug/buchwasa_Assignment10.csprojAssemblyReference.cache
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/obj/Debug/buchwasa_Assignment10.csproj.CoreCompileInputs.cache
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/obj/Debug/buchwasa_Assignment10.csproj.CopyComplete
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/obj/Debug/buchwasa_Assignment10.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/buchwasa_Assignment10/obj/Debug/buchwasa_Assignment10.pdb

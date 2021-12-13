@@ -1,0 +1,6 @@
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/bin/Debug/Algorithm.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/bin/Debug/Algorithm.pdb
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/obj/Debug/Algorithm.dll
+/home/drew/OneDrive/Contemporary Programming/buchwasa_Assignment10/Algorithm/obj/Debug/Algorithm.pdb

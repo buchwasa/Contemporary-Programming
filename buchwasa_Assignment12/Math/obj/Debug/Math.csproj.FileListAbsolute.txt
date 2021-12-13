@@ -1,0 +1,6 @@
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\bin\Debug\Math.dll
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\bin\Debug\Math.pdb
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\obj\Debug\Math.dll
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\Math\obj\Debug\Math.pdb

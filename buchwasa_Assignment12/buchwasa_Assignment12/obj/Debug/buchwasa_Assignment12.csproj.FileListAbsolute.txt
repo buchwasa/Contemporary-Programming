@@ -1,0 +1,11 @@
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.csproj.SuggestedBindingRedirects.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\bin\Debug\buchwasa_Assignment12.exe.config
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\bin\Debug\buchwasa_Assignment12.exe
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\bin\Debug\buchwasa_Assignment12.pdb
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\bin\Debug\Math.dll
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\bin\Debug\Math.pdb
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.csproj.AssemblyReference.cache
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.csproj.CopyComplete
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.exe
+C:\Users\dbuch\OneDrive - University of Cincinnati\Contemporary Programming\buchwasa_Assignment12\buchwasa_Assignment12\obj\Debug\buchwasa_Assignment12.pdb

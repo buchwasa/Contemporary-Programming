@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "182180fe-e770-441e-9900-7a794101a562": {
+      "ProjectGuid": "182180fe-e770-441e-9900-7a794101a562",
+      "DisplayName": "buchwasa_Assignment12",
+      "ColorIndex": 0
+    },
+    "fb8c9f59-e84f-4748-9c52-d0ca831ff9eb": {
+      "ProjectGuid": "fb8c9f59-e84f-4748-9c52-d0ca831ff9eb",
+      "DisplayName": "Math",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

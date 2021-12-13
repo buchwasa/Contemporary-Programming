@@ -1,8 +1,0 @@
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\bin\Debug\InClass1028.exe.config
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\bin\Debug\InClass1028.exe
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\bin\Debug\InClass1028.pdb
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\obj\Debug\InClass1028.csproj.AssemblyReference.cache
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\obj\Debug\InClass1028.csproj.SuggestedBindingRedirects.cache
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\obj\Debug\InClass1028.csproj.CoreCompileInputs.cache
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\obj\Debug\InClass1028.exe
-C:\Users\buchw\OneDrive - University of Cincinnati\Documents\Contemporary Programming\InClass1028\InClass1028\obj\Debug\InClass1028.pdb

@@ -1,6 +1,0 @@
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb

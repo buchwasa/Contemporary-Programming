@@ -1,7 +1,0 @@
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Contemporary Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

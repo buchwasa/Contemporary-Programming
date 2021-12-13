@@ -1,6 +1,0 @@
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\bin\Debug\PrimeNumberChecker.dll
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\bin\Debug\PrimeNumberChecker.pdb
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.csproj.AssemblyReference.cache
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.csproj.CoreCompileInputs.cache
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.dll
-C:\Users\Drew\OneDrive - University of Cincinnati\Documents\Semester 3\Contemporary Programming\buchwasa_Assignment03\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.pdb
